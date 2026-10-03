@@ -9,19 +9,19 @@ type Entry = {
 
 const ENTRIES: Entry[] = [
   {
-    school: "Rhode Island School of Design",
-    degree: "BFA, Graphic Design",
-    period: "2013 – 2017",
+    school: "GOVT Polytechnic Nalgonda",
+    degree: "Diploma Graduate",
+    period: "CGPA: 9.03",
   },
   {
-    school: "Stanford University",
-    degree: "HCI Certificate, d.school",
-    period: "2018",
+    school: "Cybersecurity & AI Focus",
+    degree: "Networking, security engineering, Python, Java, AI/LLM security",
+    period: "Current focus",
   },
   {
-    school: "Bruno Simon's Three.js Journey",
-    degree: "WebGL & Shaders",
-    period: "2022",
+    school: "Research Interests",
+    degree: "Quantum computing, blockchain, secure software systems",
+    period: "Ongoing interest",
   },
 ];
 
